@@ -4,5 +4,5 @@ This project is based on visual question answering (VQA) system based on open-so
 
 ## Demo
 
-![VQA Demo]](https://github.com/LalitMahale/VQA-using-Hugging-face-Open-Source-Model/blob/main/data/vqa.gif)
+![VQA Demo](https://github.com/LalitMahale/VQA-using-Hugging-face-Open-Source-Model/blob/main/data/vqa.gif)
 
