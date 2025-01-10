@@ -1,0 +1,7 @@
+transformers
+torch
+streamlit 
+python-mulitpart
+uvicorn
+fastapi
+pillow
